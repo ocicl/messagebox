@@ -1,0 +1,9 @@
+* messagebox
+
+Display a native GUI message box
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/Shinmera/messagebox.git |
+| commit  | b35c615                                        |
+| systems | messagebox                                     |
+|---------+------------------------------------------------|
