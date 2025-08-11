@@ -4,6 +4,6 @@ Display a native GUI message box
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/Shinmera/messagebox.git |
-| commit  | c03a77d                                        |
+| commit  | d2087a4                                        |
 | systems | messagebox                                     |
 |---------+------------------------------------------------|
