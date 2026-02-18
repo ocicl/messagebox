@@ -3,7 +3,7 @@
 Display a native GUI message box
 
 |---------+------------------------------------------------|
-| source  | git:https://github.com/Shinmera/messagebox.git |
-| commit  | 317ff95                                        |
+| source  | git:https://codeberg.org/shinmera/messagebox.git |
+| commit  | 0000000                                        |
 | systems | messagebox                                     |
 |---------+------------------------------------------------|
